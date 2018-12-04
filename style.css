@@ -1,0 +1,30 @@
+h1{
+      color: 	#8B008B;
+      text-align: center;
+		}
+
+    h3{
+          color: 	#fffff0;
+          text-align: center;
+
+    		}
+		p{
+			color: #fffff0;
+    
+		}
+
+.dot {
+  height: 15px;
+  width: 10px;
+  background-color: #7b1fa2;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.tab {
+  margin-top: 25px;
+}
+
+nav{
+  color: #8e24aa;
+}

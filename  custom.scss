@@ -1,0 +1,47 @@
+// Custom.scss
+@import "node_modules/bootstrap/scss/bootstrap";
+
+$enable-gradients = true;
+
+$('#reversed_arc').circleTypes({radius: 160, dir:-1});
+
+
+<a class="nav-link js-scroll-trigger" href="#about">About Us</a>
+</li>
+<li class="nav-item">
+<a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
+</li>
+<li class="nav-item">
+<a class="nav-link js-scroll-trigger" href="#signup">Contact Us</a>
+
+
+<!--Scroll icon -->
+<div class="bgimg-1">
+  <div class="caption">
+    <span class="border">SCROLL DOWN</span>
+  </div>
+</div>
+
+<p class="tab"></p>
+
+<!-- Columns with club moto -->
+    <div class="container-fluid" style="text-align:center">
+    <div class="row">
+  <div class="col-xs-6 col-sm-6"></div>
+  <div class="col-xs-6 col-sm-6"><p class="serif"><em>Sporting Excellence</em></p></div>
+  <div class="clearfix visible-xs-block"></div>
+</div>
+
+<div class="container-fluid" style="text-align:center">
+<div class="row">
+<div class="col-xs-6 col-sm-6"><p class="serif"><em>Strong Community</em></p></div>
+<div class="col-xs-6 col-sm-6"></div>
+<div class="clearfix visible-xs-block"></div>
+</div>
+
+<div class="container-fluid" style="text-align:center">
+<div class="row">
+<div class="col-xs-6 col-sm-6"><img src="images/Event.jpg" alt="Ball Photo" title="Event Group Picture"> style=height: 15px</div>
+<div class="col-xs-6 col-sm-6"><p class="serif"><em>Superior Events</em></p></div>
+<div class="clearfix visible-xs-block"></div>
+</div>
